@@ -1,0 +1,17 @@
+{
+    "name": "learn/backend",
+    "description": "learning backend",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Learn\\Backend\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Abdallah Askar",
+            "email": "lalaskar678@gmail.com"
+        }
+    ],
+    "require": {}
+}
